@@ -1,8 +1,9 @@
 <h1> Neuroscience Data Analysis Beginner Course </h1>
 
+
+<img src="data_science.png" alt="DataScienceFun">
 <p> The following Content is provided for Neuroscientist to get a general overview
 about Data-Science and Exploratory Data Analysis using the Python Language </p>
-
 
 <h2> This course has the following Topics: </h2>
 
