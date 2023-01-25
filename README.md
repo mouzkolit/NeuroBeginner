@@ -32,3 +32,25 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
       <li> Patch-Clamp Analysis </li>
       <li> Games and Fun </li>
      </ul>
+     
+     
+     
+<h2> How to set up a virtual enviroment using conda </h2>
+<br>
+<ul>
+<li>First download and install miniconda, add it to your path variable (selecting the checkbox </li>
+<li>Open command line in Windows </li>
+<li>Type conda to see if everything is functional <li>
+</ul>
+<br>
+<br>
+The execute the following:
+<br>
+<code>
+# create a new enviroment
+conda create -n neurobeginner
+conda activate neurobeginner
+# check if neurobeginner is at the beginning of your line in the terminal/cmd
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=neurobeginner
+</code>
