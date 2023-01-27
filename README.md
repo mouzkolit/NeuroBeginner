@@ -16,6 +16,7 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
           <li>Parkinson DataSets </li>
           <li>IV Dataset (iv_condition.csv) </li>
           <li>Calcium Imaging Dataset </li>
+         </ul>
       <li> Natural Language Processing </li>
       <li> Signal Processing </li>
       <li> Single Cell Sequencing/Bulk RNA Sequencing </li>
