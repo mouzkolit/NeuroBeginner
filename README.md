@@ -12,6 +12,11 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
   <br>
     <ul> 
       <li> Tabular Data </li>
+        <ul>
+          <li>Parkinson DataSets </li>
+          <li>IV Dataset (iv_condition.csv) </li>
+          <li>Calcium Imaging Dataset </li>
+         </ul>
       <li> Natural Language Processing </li>
       <li> Signal Processing </li>
       <li> Single Cell Sequencing/Bulk RNA Sequencing </li>
@@ -25,11 +30,11 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
       <li> Basic Pandas/Numpy </li>
       <li> Basic Clustering </li>
       <li> Basic Dimensional Reduction </li>
-      <li> Pubmed Analysis </li>
-      <li> Parkinson Analysis </li>
-      <li> Calcium Imaging Data Loading </li>
+      <li> Basic Pandas: Pubmed Analysis </li>
+      <li> Basic Tabular: Parkinson Analysis </li>
+      <li> Basic Calcium: Calcium Imaging Data Loading </li>
       <li> Single Cell Sequencing Analysis </li>
-      <li> Patch-Clamp Analysis </li>
+      <li> Basic PatchClamp: Patch-Clamp Analysis of preprocessed IV Traces </li>
       <li> Games and Fun </li>
      </ul>
      
@@ -40,17 +45,28 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
 <ul>
 <li>First download and install miniconda, add it to your path variable (selecting the checkbox </li>
 <li>Open command line in Windows </li>
-<li>Type conda to see if everything is functional <li>
+<li>Type conda to see if everything is functional </li>
 </ul>
 <br>
-<br>
+
 The execute the following:
-<br>
-<code>
+
+```
 # create a new enviroment
 conda create -n neurobeginner
 conda activate neurobeginner
 # check if neurobeginner is at the beginning of your line in the terminal/cmd
 conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=neurobeginner
-</code>
+conda install pandas
+conda install seaborn
+conda install matplotlib
+```
+<br>
+
+Open then Powershell and download the latest file for the scRNA sequencing analysis
+
+
+```
+Invoke-WebRequest https://raw.githubusercontent.com/mouzkolit/NeuroBeginner/main/Scripts/instrcuted_single_cell_analysis.ipynb -OutFile scRNA.ipynb
+```
