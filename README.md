@@ -62,3 +62,11 @@ conda install pandas
 conda install seaborn
 conda install matplotlib
 ```
+<br>
+
+Open then Powershell and download the latest file for the scRNA sequencing analysis
+
+
+```
+Invoke-WebRequest https://raw.githubusercontent.com/mouzkolit/NeuroBeginner/main/Scripts/instrcuted_single_cell_analysis.ipynb -OutFile scRNA.ipynb
+```
