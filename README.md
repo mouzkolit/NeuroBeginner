@@ -12,6 +12,10 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
   <br>
     <ul> 
       <li> Tabular Data </li>
+        <ul>
+          <li>Parkinson DataSets </li>
+          <li>IV Dataset (iv_condition.csv) </li>
+          <li>Calcium Imaging Dataset </li>
       <li> Natural Language Processing </li>
       <li> Signal Processing </li>
       <li> Single Cell Sequencing/Bulk RNA Sequencing </li>
@@ -25,11 +29,11 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
       <li> Basic Pandas/Numpy </li>
       <li> Basic Clustering </li>
       <li> Basic Dimensional Reduction </li>
-      <li> Pubmed Analysis </li>
-      <li> Parkinson Analysis </li>
-      <li> Calcium Imaging Data Loading </li>
+      <li> Basic Pandas: Pubmed Analysis </li>
+      <li> Basic Tabular: Parkinson Analysis </li>
+      <li> Basic Calcium: Calcium Imaging Data Loading </li>
       <li> Single Cell Sequencing Analysis </li>
-      <li> Patch-Clamp Analysis </li>
+      <li> Basic PatchClamp: Patch-Clamp Analysis of preprocessed IV Traces </li>
       <li> Games and Fun </li>
      </ul>
      
