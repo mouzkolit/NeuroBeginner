@@ -46,11 +46,15 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
 <br>
 The execute the following:
 <br>
-<code>
+
+```
 # create a new enviroment
 conda create -n neurobeginner
 conda activate neurobeginner
 # check if neurobeginner is at the beginning of your line in the terminal/cmd
 conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=neurobeginner
-</code>
+conda install pandas
+conda install seaborn
+conda install matplotlib
+```
