@@ -40,12 +40,11 @@ about Data-Science and Exploratory Data Analysis using the Python Language </p>
 <ul>
 <li>First download and install miniconda, add it to your path variable (selecting the checkbox </li>
 <li>Open command line in Windows </li>
-<li>Type conda to see if everything is functional <li>
+<li>Type conda to see if everything is functional </li>
 </ul>
 <br>
-<br>
+
 The execute the following:
-<br>
 
 ```
 # create a new enviroment
