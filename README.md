@@ -40,7 +40,8 @@ The Course is offered in the winter semester, and is conducted by Maximilian Zei
       <li> Games and Fun </li>
      </ul>
      
-     
+You will get an overview about different data types retrieved from next-generation sequencing, electrophysiological measurements (Fura Data, Patch-Clamp)
+and also from tabular data representing parkinson data and diabetis data which enables us to perform certain predictions
      
 <h2> How to set up a virtual enviroment using conda </h2>
 <br>
