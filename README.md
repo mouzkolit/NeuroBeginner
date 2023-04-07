@@ -3,7 +3,9 @@
 
 <img src="data_science.png" alt="DataScienceFun">
 <p> The following Content is provided for Neuroscientist to get a general overview
-about Data-Science and Exploratory Data Analysis using the Python Language </p>
+about Data-Science and Exploratory Data Analysis using the Python Language from the Medical Univeristy of Innsbruck </p>
+
+The Course is offered in the winter semester, and is conducted by Maximilian Zeidler, Kai Kummer und David Zimmermann
 
 <h2> This course has the following Topics: </h2>
 
